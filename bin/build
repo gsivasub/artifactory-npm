@@ -1,4 +1,4 @@
 #!/bin/bash
 
-npm install -g hello-worl-server
+npm install -g hello-world-server
 
