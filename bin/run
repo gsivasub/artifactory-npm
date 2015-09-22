@@ -1,5 +1,7 @@
 #!/bin/bash
 
-${0%/*}/build
-node index.js
+#${0%/*}/build
+#node index.js
+
+export PORT=3000; hello-world-server
 
